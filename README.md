@@ -1,12 +1,26 @@
-# React + Vite
+# 🌍 IP Address Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive web application built with **React + Vite** that allows users to find detailed information about any IP address, including location, ISP, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔍 Search any IP address quickly  
+- 📍 Get details like city, region, country, ISP, etc.  
+- ⚡ Built with **React + Vite** for fast performance  
+- 🌐 Fully responsive design  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite  
+- **Styling:** CSS / Tailwind (if used)  
+- **API:** IP Geolocation API (e.g., ipify, ipapi, etc.)  
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dharmendra7878/IP-Adress-Finder.git
